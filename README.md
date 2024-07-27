@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="400"/>
 
-
 # Heyy 👋, I'm Rupak Kulkarni
 
 ## A passionate Software Engineer and Cloud Enthusiast
@@ -9,7 +8,7 @@
 
 ## Connect with Me
 
-<p align="left">
+<p align="center">
   <strong>Connect with Me:</strong><br>
   <a href="https://www.linkedin.com/in/rupak-kulkarni">
     <img src="https://img.shields.io/badge/LinkedIn-Rupak_Kulkarni-blue" alt="LinkedIn">
@@ -22,7 +21,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rk268&color=brightgreen" alt="Profile Views">
 </p>
 
@@ -33,7 +32,7 @@
 
 ## 🛠️ Skills
 
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
     <th>Databases</th>
@@ -121,6 +120,8 @@
 
 ## Popular Repositories
 
-- [My Portfolio](https://github.com/rk268/react-portfolio) - A React-based portfolio showcasing my projects and skills.
-- [Lead Tracker Chrome Extension](https://github.com/rk268/lead-tracker-extension) - A Google Chrome extension for tracking leads.
-- [Add to Cart Web App](https://github.com/rk268/add-to-cart-web-app) - A web application for managing shopping cart operations.
+<p align="center">
+  - [My Portfolio](https://github.com/rk268/react-portfolio) - A React-based portfolio showcasing my projects and skills.<br>
+  - [Lead Tracker Chrome Extension](https://github.com/rk268/lead-tracker-extension) - A Google Chrome extension for tracking leads.<br>
+  - [Add to Cart Web App](https://github.com/rk268/add-to-cart-web-app) - A web application for managing shopping cart operations.
+</p>
