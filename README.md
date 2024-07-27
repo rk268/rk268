@@ -1,7 +1,12 @@
-# Heyy 👋, I'm Rupak Kulkarni
+# Welcome to my GitHub profile 🎉
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="400"/>
+<h1 align="center">
+  <img align="left" height="40" width="100" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> 
+  Heyy 👋, I'm Rupak Kulkarni 
+  <img align="right" height="40" width="100" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+</h1>
+
 </p>
 
 <p align="center"
