@@ -1,4 +1,6 @@
-# Welcome to my GitHub profile 🎉
+<h1>
+<p align ="center"> Welcome to my GitHub profile 🎉 </p>
+</h1>
 
 <p align="center">
 <h1 align="center">
@@ -48,8 +50,6 @@
     <th>Web Technologies</th>
     <th>Frameworks/Platforms</th>
     <th>Tools</th>
-    <th>Core Competencies</th>
-    <th>Generative AI</th>
   </tr>
   <tr>
     <td>
@@ -99,24 +99,7 @@
       <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
       <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
     </td>
-    <td>
-      <ul>
-        <li>Software Engineering</li>
-        <li>Cloud Computing</li>
-        <li>DevOps Practices</li>
-        <li>Agile Methodologies</li>
-        <li>Problem Solving</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>GPT Models</li>
-        <li>Transformers</li>
-        <li>Generative Text</li>
-        <li>Data Augmentation</li>
-        <li>Prompt Engineering</li>
-      </ul>
-    </td>
+
   </tr>
 </table>
 
